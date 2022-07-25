@@ -20,8 +20,6 @@ class Buttons extends Component {
         <Button variant="btn btn-warning">Warning</Button>
         <Button variant="btn btn-danger">Danger</Button>
         <Button variant="btn btn-default">Default</Button>
-
-        
       </WebBox>
     );
   }
